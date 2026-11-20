@@ -285,11 +285,8 @@
   display: block;
 }
 
-.save-dialog__form {
-  grid-column: 1 / -1;
-}
-
 .save-dialog__close {
+  grid-column: 1 / -1;
   inline-size: 100%;
   min-block-size: 38px;
 }
