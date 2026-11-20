@@ -1,1 +1,1 @@
-https://github.com/prodbyyasuo/zakrivayuschiy-teg-ad
+https://prodbyyasuo.github.io/zakrivayuschiy-teg-ad/
